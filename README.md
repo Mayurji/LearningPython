@@ -1,2 +1,9 @@
 # LearningPython
-The objective of the repository is to learn python in efficient way by practing and understanding the most basics required to get started.
+
+The objective of the repository is to learn python in efficient way by practicing and understanding the key aspects of python required to get started in python developement and for machine learning.
+
+- Data Structure
+- String and Text
+- File Handling
+
+To be continued.
