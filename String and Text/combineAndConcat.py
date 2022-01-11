@@ -13,3 +13,5 @@ a, b, c = 'I', 'Love', 'Python'
 print(a + ':' + b + ':' + c) # Ugly
 print(':'.join([a, b, c])) # Still ugly
 print(a, b, c, sep=':') # Better
+
+# Usage: join over +
