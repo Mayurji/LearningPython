@@ -41,3 +41,16 @@ def generate_token(pattern, text):
 
 for tok in generate_token(master_pattern, 'foo = 42'):
     print(tok)
+
+# Order of the pattern "Matters"
+
+LT = r'(?P<LT><)'
+LE = r'(?P<LE><=)'
+EQ = r'(?P<EQ>=)'
+master_pattern_1 = re.compile("|".join(LE|LT|EQ)) #Correct
+master_pattern_2 = re.compile("|".join(LT|LE|EQ)) #Incorrect
+
+"""
+master_pattern_2 is incorrect, because it will match the text
+<= as LT (less than) followed by EQ.
+"""
