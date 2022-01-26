@@ -1,0 +1,6 @@
+This is context manager.
+Appending more content to file.
+Hello World!
+This is context manager.
+Appending more content to file.
+Hello World!

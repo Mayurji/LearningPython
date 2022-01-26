@@ -6,6 +6,7 @@ The objective of the repository is to learn python in efficient way by practicin
 
 - Data Structure
 - String and Text
-- File Handling
+- File Handlind and IO operations
+- Iterators and Generators
 
 To be continued.
