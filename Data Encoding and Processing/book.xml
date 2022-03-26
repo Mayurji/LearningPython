@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+<title>Planet Python</title>
+<link>http://planet.python.org/</link>
+<language>en</language>
+<description>Planet Python - http://planet.python.org/</description>
+<item>
+<title>Steve Holden: Python for Data Analysis</title>
+<guid>http://holdenweb.blogspot.com/...-data-analysis.html</guid>
+<link>http://holdenweb.blogspot.com/...-data-analysis.html</link>
+<description>...</description>
+<pubDate>Mon, 19 Nov 2012 02:13:51 +0000</pubDate>
+</item>
+<item>
+<title>Python Diary: Been playing around with Object Databases</title>
+<guid>http://www.pythondiary.com/...-object-databases.html</guid>
+<link>http://www.pythondiary.com/...-object-databases.html</link>
+<description>...</description>
+<pubDate>Sun, 18 Nov 2012 20:40:29 +0000</pubDate>
+</item>
+</channel>
+</rss>
