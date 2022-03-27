@@ -10,5 +10,6 @@ The objective of the repository is to learn python in efficient way by practicin
 - File Handling and IO operations
 - Iterators and Generators
 - Data Encoding and Processing
+- Functions
 
 To be continued.
